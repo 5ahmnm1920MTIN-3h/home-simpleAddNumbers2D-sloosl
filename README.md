@@ -13,7 +13,7 @@ WebGL
 
 ### Visuals: 
 <div>
-<img src = "./Images/screenshotGame.png" width = "500">
+<img src = "Assets/MyGame/Images/screenshotGame.png" width = "500">
 </div>
 
 ### Necessary setup/execution steps: 
